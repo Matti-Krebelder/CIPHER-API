@@ -4,7 +4,7 @@
 The CIPHER API offers a comprehensive suite of functionalities, including web crawling, name search, image search, IP lookup, and phone number search, enabling users to efficiently retrieve relevant information across various domains.
 
 
-![Logo](https://skynethub.net/CIPHER/cbanner.png)
+![Logo](http://skynethub.net/CIPHER/cbanner.png)
 
 
 ## Features
